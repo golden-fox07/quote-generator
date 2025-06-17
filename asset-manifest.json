@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/golden-fox07.github.io/quote-generator/static/css/main.63f5ea21.css",
+    "main.js": "/golden-fox07.github.io/quote-generator/static/js/main.a03d36ae.js",
+    "static/js/453.4db426b7.chunk.js": "/golden-fox07.github.io/quote-generator/static/js/453.4db426b7.chunk.js",
+    "static/media/boxicons.svg": "/golden-fox07.github.io/quote-generator/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/golden-fox07.github.io/quote-generator/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/golden-fox07.github.io/quote-generator/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/golden-fox07.github.io/quote-generator/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/golden-fox07.github.io/quote-generator/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/reload.png": "/golden-fox07.github.io/quote-generator/static/media/reload.7d9e79fce65fc893d7c7.png",
+    "index.html": "/golden-fox07.github.io/quote-generator/index.html",
+    "main.63f5ea21.css.map": "/golden-fox07.github.io/quote-generator/static/css/main.63f5ea21.css.map",
+    "main.a03d36ae.js.map": "/golden-fox07.github.io/quote-generator/static/js/main.a03d36ae.js.map",
+    "453.4db426b7.chunk.js.map": "/golden-fox07.github.io/quote-generator/static/js/453.4db426b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63f5ea21.css",
+    "static/js/main.a03d36ae.js"
+  ]
+}
