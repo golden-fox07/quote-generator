@@ -2,7 +2,7 @@
   
   "name": "quote-generator",
   "version": "0.1.0",
-  "homepage": "https://golden-fox07.github.io/quote-generator/",
+  "homepage": "https://golden-fox07.github.io/quote-generator",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
