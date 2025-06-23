@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quote-generator/static/css/main.b02e0766.css",
-    "main.js": "/quote-generator/static/js/main.6e98744f.js",
+    "main.js": "/quote-generator/static/js/main.67bf5e30.js",
     "static/js/453.73354f22.chunk.js": "/quote-generator/static/js/453.73354f22.chunk.js",
     "static/media/boxicons.svg": "/quote-generator/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/boxicons.eot": "/quote-generator/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -11,11 +11,11 @@
     "static/media/reload.png": "/quote-generator/static/media/reload.7d9e79fce65fc893d7c7.png",
     "index.html": "/quote-generator/index.html",
     "main.b02e0766.css.map": "/quote-generator/static/css/main.b02e0766.css.map",
-    "main.6e98744f.js.map": "/quote-generator/static/js/main.6e98744f.js.map",
+    "main.67bf5e30.js.map": "/quote-generator/static/js/main.67bf5e30.js.map",
     "453.73354f22.chunk.js.map": "/quote-generator/static/js/453.73354f22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b02e0766.css",
-    "static/js/main.6e98744f.js"
+    "static/js/main.67bf5e30.js"
   ]
 }
